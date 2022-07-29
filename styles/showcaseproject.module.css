@@ -1,0 +1,40 @@
+.project{
+    margin-bottom: 50px;
+}
+
+.project img{
+    display: block;
+    min-height: 200px;
+    background: var(--light-gray);
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid rgba(0,0,0,.1);
+}
+
+.tag{
+    display: block;
+    margin-top: 18px;
+    font-size: var(--paragraph-size);
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.title{
+    display: block;
+    margin-top: 30px;
+}
+
+.projectTitle{
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.titleDesc{
+}
+
+.desc{
+    display: block;
+    margin-top: 10px;
+    font-size: var(--paragraph-size);
+}
