@@ -1,4 +1,4 @@
-import styles from '../styles/about.module.css'
+import styles from '../styles/About.module.css'
 
 export default function About(){
     return (<div id='about' className={'pageHolder ' + styles.pageHolder}>

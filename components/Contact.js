@@ -1,4 +1,4 @@
-import styles from '../styles/contact.module.css'
+import styles from '../styles/Contact.module.css'
 
 export default function Contact() {
     return (<div id='contact' className={"pageHolder "  + styles.pageHolder}>

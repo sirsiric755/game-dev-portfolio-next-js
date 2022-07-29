@@ -1,4 +1,4 @@
-import styles from '../styles/showcaseproject.module.css'
+import styles from '../styles/Showcaseproject.module.css'
 
 export default function ShowcaseProject({title, desc, tag, imgUrl}){
     return (
